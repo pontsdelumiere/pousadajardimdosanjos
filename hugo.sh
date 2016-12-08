@@ -8,7 +8,7 @@ github)
     echo "Génération des fichiers GitHub"
     hugo                                                                \
         --destination=$OUT_PATH                                         \
-        --baseURL="file:///Users/nico/Sites/pousadajardimdosanjos/pousadajardimdosanjos/docs/"
+        --baseURL="https://pontsdelumiere.github.io/pousadajardimdosanjos/"
     cp README.md $OUT_PATH
     if [ -z "$2" ]
     then
