@@ -9,7 +9,7 @@ github)
     hugo                                                                \
         --destination=$OUT_PATH                                         \
         --baseURL="https://pontsdelumiere.github.io/pousadajardimdosanjos/"
-    cp README.md $OUT_PATH
+    cp CNAME $OUT_PATH
     if [ -z "$2" ]
     then
         echo "##########"
@@ -21,11 +21,6 @@ github)
         git add .
         git commit -m "$COMMENT"
         git push
-        # echo -e "\n### Mise à jour du dépôt “site-web-v3”"
-        # cd $OUT_PATH
-        # git add .
-        # git commit -m "$COMMENT"
-        # git push
     fi
     echo -e "\n### COMMENTAIRE = $COMMENT"
     ;;
