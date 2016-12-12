@@ -13,7 +13,7 @@ lang: fr
 
 Une salle à manger avec buffet de salades, buffet chaud, fruits et desserts qui satisferont autant les végétariens que ceux qui mangent de la viande.
 
-Accès Internet (WiFi).
+**Accès Internet (WiFi).**
 
 Un salon pour se détendre et une salle de réunion pour les groupes.
 
