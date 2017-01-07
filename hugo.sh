@@ -4,11 +4,11 @@ case "$1" in
 
 github)
     OUT_PATH="$HOME/Sites/pousadajardimdosanjos/pousadajardimdosanjos/docs/"
-    # rm -rf $OUT_PATH # !! Ne pas effacer le répertoire .git !!
+    rm -rf $OUT_PATH
     echo "Génération des fichiers GitHub"
     hugo                                                                \
         --destination=$OUT_PATH                                         \
-        --baseURL="https://pontsdelumiere.github.io/pousadajardimdosanjos/"
+        --baseURL="http://pousadajardimdosanjos.com/"
     cp CNAME $OUT_PATH
     if [ -z "$2" ]
     then
