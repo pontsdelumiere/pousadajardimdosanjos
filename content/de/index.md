@@ -92,7 +92,7 @@ Zeit 14 Jahre: Erwachsenenpreis
 
 Schönes Haus zur Miete in der Nähe Abadiânia der Casa de Dom Inácio : 3 Schlafzimmer, 3 Bäder, große Terrasse.
 
-Kontaktieren Sie uns: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
+Kontaktieren Sie uns: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
 
 {{< carousel-v1-maison-a-louer >}}
 

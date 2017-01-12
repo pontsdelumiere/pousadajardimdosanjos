@@ -92,7 +92,7 @@ From 14 years: Adult rate
 
 Beautiful house to rent in Abadiânia near the Casa de Dom Inácio: 3 bedrooms, 3 bath, large outdoor patio.
 
-Contact: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
+Contact: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
 
 {{< carousel-v1-maison-a-louer >}}
 

@@ -92,7 +92,7 @@ A partir dos 14 anos: tarifa de adulto
 
 Linda casa para alugar perto da Casa: 3 quartos, 3 banheiros, amplo pátio ao ar livre.
 
-Contato: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
+Contato: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
 
 {{< carousel-v1-maison-a-louer >}}
 

@@ -90,7 +90,7 @@ lang: el
 
 Όμορφο σπίτι προς ενοικίαση στην Abadiânia κοντά στο Casa de Dom Inácio : 3 υπνοδωμάτια, 3 μπάνια, μεγάλη εξωτερική αυλή
 
-Επικοινωνήστε μαζί μας: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
+Επικοινωνήστε μαζί μας: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
 
 {{< carousel-v1-maison-a-louer >}}
 

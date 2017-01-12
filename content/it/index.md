@@ -92,7 +92,7 @@ A partire da 14 anni: Tariffa adulti
 
 Bella casa in affitto a Abadiânia nei pressi della Casa de Dom Inácio : 3 camere da letto, 3 bagni, ampio patio esterno.
 
-Contattaci: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
+Contattaci: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
 
 {{< carousel-v1-maison-a-louer >}}
 
