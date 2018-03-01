@@ -82,16 +82,3 @@ lang: el
 ## Επισκεφθείτε τους φίλους μας!
 
 {{< links >}}
-
-
-# σπίτι προς ενοικίαση
-
-## Casa santuario (σπίτι ιερό)
-
-Όμορφο σπίτι προς ενοικίαση στην Abadiânia κοντά στο Casa de Dom Inácio : 3 υπνοδωμάτια, 3 μπάνια, μεγάλη εξωτερική αυλή
-
-Επικοινωνήστε μαζί μας: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
-
-{{< carousel-v1-maison-a-louer >}}
-
-☺ Φωτογραφίες April Wood

@@ -84,16 +84,3 @@ Zeit 14 Jahre: Erwachsenenpreis
 ## Besuchen Sie unsere Freunde!
 
 {{< links >}}
-
-
-# Haus zur Miete
-
-## Casa santuario
-
-Schönes Haus zur Miete in der Nähe Abadiânia der Casa de Dom Inácio : 3 Schlafzimmer, 3 Bäder, große Terrasse.
-
-Kontaktieren Sie uns: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
-
-{{< carousel-v1-maison-a-louer >}}
-
-☺ Fotos von April Wood

@@ -84,16 +84,3 @@ A partire da 14 anni: Tariffa adulti
 ## Visitare i nostri amici!
 
 {{< links >}}
-
-
-# Casa da affittare
-
-## Casa santuario
-
-Bella casa in affitto a Abadiânia nei pressi della Casa de Dom Inácio : 3 camere da letto, 3 bagni, ampio patio esterno.
-
-Contattaci: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
-
-{{< carousel-v1-maison-a-louer >}}
-
-☺ Fotos di April Wood

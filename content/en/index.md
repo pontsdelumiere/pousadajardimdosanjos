@@ -84,16 +84,3 @@ From 14 years: Adult rate
 ## Visit our friends!
 
 {{< links >}}
-
-
-# House to rent
-
-## Casa santuario
-
-Beautiful house to rent in Abadiânia near the Casa de Dom Inácio: 3 bedrooms, 3 bath, large outdoor patio.
-
-Contact: <a href="mailto:pousadajardimdosanjos@gmail.com">pousadajardimdosanjos@gmail.com</a>
-
-{{< carousel-v1-maison-a-louer >}}
-
-☺ Photos April Wood
